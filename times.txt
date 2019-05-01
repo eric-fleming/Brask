@@ -1,0 +1,32 @@
+HTML and Bootstrap Tips
+1:27 mobile first
+2:35 rows instead of tables
+4:20 Bootstrap documentation and flexible displays
+6:20 typing begin
+6:50 semantic HTML Tags
+7:20 being laying out structure
+8:24 rows
+8:55 cols
+11:40  I start typing in words which are not essential
+skip
+17:15 I have almost finished typing
+19:30 end of Bootstrap
+
+
+CSS Tips
+19:50 CSS custom properties
+20:46 root values
+21:07 var
+22:24 colors
+25:07 end of colors
+25:20 padding/margin vars
+28:06 end of css var talk
+
+
+Network Performance Tips
+28:10 Page Speed Insights
+30:00 h2 vs h1.1
+32:00 parallel downloading assests
+34:00 css preload vs prefetch...I basically read for a long time and get lost.
+skip
+38:00 Eureka!  Knowledge found.
